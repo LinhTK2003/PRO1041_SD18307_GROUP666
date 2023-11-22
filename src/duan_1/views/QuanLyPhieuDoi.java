@@ -539,8 +539,8 @@ public class QuanLyPhieuDoi extends javax.swing.JFrame {
         txtIdpd.setText("");
         txtLyDo.setText("");
         txtMaPD.setText("");
-
         txtSoLuong.setText("");
+        System.out.println("Da xoa");
     }
 
     private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
